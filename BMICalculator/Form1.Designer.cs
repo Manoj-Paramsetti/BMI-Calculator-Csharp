@@ -1,4 +1,4 @@
-﻿namespace WindowsFormsApp2
+﻿namespace BMICalculator
 {
     partial class Form1
     {
